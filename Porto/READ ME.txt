@@ -1,0 +1,8 @@
+To run the program type: python manage.py runserver
+
+Go to chrome and type: localhost:8000
+
+If you wish to go to admin page type: localhost:8000/admin
+
+User: admin
+Password: gtms_group4
